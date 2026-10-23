@@ -4383,6 +4383,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Adaga Network — Direct Booking Federation](https://adagasolutions.lu) `https://adagasolutions.lu/network/mcp`
   [![Adaga Network — Direct Booking Federation MCP connector](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-network/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jeffreyturov-dev/adaga-network)
   🔓 - Search and book every establishment of the Adaga network at exact direct prices — no OTA commission.
+- [Airfare Brain](https://airfarebrain.com) `https://airfarebrain.com/mcp`
+  [![Airfare Brain MCP connector](https://glama.ai/mcp/connectors/com.airfarebrain/airfare-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.airfarebrain/airfare-brain)
+  🔓 - True cost of a flight: bag, seat and fee prices on 19 airlines, each from the airline's own pages, dated.
 - [AirFreightPrice](https://airfreightprice.com) `https://mcp.airfreightprice.com/mcp`
   [![AirFreightPrice MCP connector](https://glama.ai/mcp/connectors/com.airfreightprice/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.airfreightprice/mcp)
   🔓 - Air cargo routes, airports and carriers with dated Freightos Air Index rates; submit quote requests.
